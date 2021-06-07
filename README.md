@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SavanCvijetic
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Web-Development
+- 📗 I’m currently learning Web-Development
 - 📫 How to reach me Savan.Cvijetic@gmail.com
 
 <!---
