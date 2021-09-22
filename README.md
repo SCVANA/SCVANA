@@ -3,15 +3,13 @@
 
 ## About Me
 
-<img align="right" height="150" width="200" alt="asdf" src="https://raw.githubusercontent.com/1H0/1H0/master/media/hello.png" >
-
 
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SavanCvijetic&count_private=true&show_icons=true">
   </div>
 
-
+  <br/><br/><br/>
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavanCvijetic&langs_count=5">
