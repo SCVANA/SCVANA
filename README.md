@@ -10,7 +10,7 @@
   <summary>:chart_with_upwards_trend: Stats</summary>
   <br />
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=1H0&count_private=true&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=SavanCvijetic&count_private=true&show_icons=true">
   </div>
 </details>
 
@@ -18,7 +18,7 @@
   <summary>:sparkles: Languages</summary>
   <br />
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1H0&langs_count=5">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavanCvijetic&langs_count=5">
   </div>
 </details>
 
