@@ -6,45 +6,18 @@
 <img align="right" height="150" width="200" alt="asdf" src="https://raw.githubusercontent.com/1H0/1H0/master/media/hello.png" >
 
 
-<details>
-  <summary>:chart_with_upwards_trend: Stats</summary>
-  <br />
+
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SavanCvijetic&count_private=true&show_icons=true">
   </div>
-</details>
 
-<details>
-  <summary>:sparkles: Languages</summary>
-  <br />
+
+
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavanCvijetic&langs_count=5">
   </div>
-</details>
 
-<details>
-  <summary>:fire: GitHub Streak</summary>
-  <br />
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelbeutler&hide_border=true">
-  </div>
-</details>
 
-<details>
-  <summary>:package: My Toolbox</summary>
-  <br />
-
-  - **OS**: Arch Linux, Debian SID, Mac OS
-  - **Laptops**: ThinkPad T490s, MacBook Pro 2017
-  - **Text Editors**: VScodium, vim
-  - **IDEs**: IntelliJ IDEA, WebStorm, PyCharm
-  - **Front End**: React, Vue, Svelte
-  - **Back End**: TypeScript, Java, Python
-  - **Mobile**: React Native, Ionic
-  - **Chat**: Signal, Matrix
-  - **Browser**: Firefox
-
-</details>
 
 <!--
 **1H0/1H0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
