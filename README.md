@@ -12,7 +12,7 @@
   <br/><br/><br/>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavanCvijetic&langs_count=5">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavanCvijetic&layout=compact">
   </div>
 
 
