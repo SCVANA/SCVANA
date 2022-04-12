@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Savan 👨‍💻</h1>
-<h3 align="center">I'm a Software Engineer</h3>
+<h1 align="center">Hi, I'm a 👨‍💻</h1>
 
 ## About Me
 
