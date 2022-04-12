@@ -6,13 +6,13 @@
 <br/><br/><br/>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SavanCvijetic&count_private=true&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=SCVANA&count_private=true&show_icons=true">
   </div>
 
   <br/><br/><br/>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavanCvijetic&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCVANA&layout=compact">
   </div>
 
 <br/><br/><br/>
